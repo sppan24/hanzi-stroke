@@ -40,7 +40,7 @@
 
 ```bash
 # 克隆仓库
-git clone <repo-url>
+git clone https://github.com/sppan24/hanzi-stroke.git
 cd hanzi-stroke
 
 # 直接用浏览器打开（推荐使用本地 HTTP 服务以避免跨域问题）
